@@ -1,0 +1,35 @@
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --subtitles: Syne;
+  --body-text-18: "Work Sans";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --subtitles-size: 26px;
+  --body-text-14-size: 14px;
+  --font-size-36xl: 55px;
+  --font-size-3xs: 10px;
+  --body-text-18-size: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --grey-scale-1000: #000;
+  --color-gray-100: #161615;
+  --grey-scale-200: rgba(255, 255, 255, 0.5);
+  --greyscale-400: rgba(22, 22, 21, 0.5);
+  --color-dimgray: #626262;
+  --pimary-colour: #f07e15;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-10xs: 3px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+}
